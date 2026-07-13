@@ -1,0 +1,4 @@
+display_name: RAG Evaluator
+short_description: Quantitatively evaluate RAG systems using metrics like faithfulness, answer relevance, context precision, and recall. Includes evaluation scripts, metric reference, and framework guidance.
+default_prompt: I need to build an evaluation pipeline for my RAG system.
+instructions: Use this skill when the user wants to evaluate, benchmark, or audit the quality of a Retrieval-Augmented Generation (RAG) system. Covers metric selection, dataset preparation, framework setup, pipeline orchestration, and result interpretation.
